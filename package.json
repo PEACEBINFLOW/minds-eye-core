@@ -1,0 +1,32 @@
+{
+  "name": "minds-eye-core",
+  "version": "0.1.0",
+  "description": "Core event schema + LAW-T (Law of Time) logic for the Google-native Mind's Eye OS constellation. Defines the universal event model, time labeling, block/segment logic, and shared TypeScript types used across all Mind's Eye repos.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "mindseye",
+    "minds-eye",
+    "law-t",
+    "timeline",
+    "events",
+    "event-schema",
+    "time-labeling",
+    "google-workspace",
+    "google-cloud",
+    "typescript",
+    "agentic-os",
+    "sageworks-ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.0"
+  }
+}
